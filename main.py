@@ -213,6 +213,7 @@ hệ quả các phép toán như Crossover, Mutation sẽ đóng vai trò như v
 đổi lời giải và đột ngột phát sinh ý tưởng mới.
 ### 4.3 Mã giả thuật toán
 Qua những mục được đề cập trên, mã giả của thuật toán sẽ như sau:
+
 Algorithm 1 Thuật toán di truyền (GA)
 ```pseudo
 1: Khởi tạo quần thể P
